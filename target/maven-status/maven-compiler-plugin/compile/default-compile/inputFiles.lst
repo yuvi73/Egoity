@@ -1,0 +1,16 @@
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/SimEgo.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/Action.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/Agent.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/Direction.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/EmotionalState.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/Environment.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/Goal.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/Memory.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/MirrorTest.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/Position.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/SelfModel.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/core/Stimulus.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/experiments/ExperimentResult.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/experiments/ExperimentRunner.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/experiments/SelfRecognitionExperiment.java
+/Users/yuvrajsinghchouhan/Ego/src/main/java/com/simego/visualization/MirroringVisualizer.java
